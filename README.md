@@ -1,3 +1,4 @@
-# html-templates
+# HTML templates by Evan Baldonado
 
-See index.html for the file. I may add more templates in the future.
+- index.html: barebones HTML template for pages
+- team.html: simple template for displaying project team members
